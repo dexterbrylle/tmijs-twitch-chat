@@ -1,0 +1,22 @@
+{
+  "name": "tmijs-twitch-chat",
+  "version": "1.0.0",
+  "description": "Twitch Chat coutner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexterbrylle/tmijs-twitch-chat.git"
+  },
+  "author": "Dexter Brylle Matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dexterbrylle/tmijs-twitch-chat/issues"
+  },
+  "homepage": "https://github.com/dexterbrylle/tmijs-twitch-chat#readme",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
